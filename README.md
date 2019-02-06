@@ -1,2 +1,2 @@
 # PythonBasics
-Programs in Python
+Scripts in Python for training and practice
